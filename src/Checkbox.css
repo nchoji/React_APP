@@ -1,0 +1,11 @@
+.pref-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.pref-wrapper input,
+.pref-wrapper label {
+    cursor: pointer;
+}
+
+.checkbox-wrappper {}
